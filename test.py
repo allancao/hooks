@@ -3,6 +3,8 @@ import logging
 class Command(ScrapyCommand):
 
 
+asdfasdfasdf
+
     @property
     def max_evel(self):
         levels  = self.items.keys() + self.requests.keys()
